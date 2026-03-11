@@ -26,7 +26,7 @@
 
 👉 **[点这里下载最新版本](https://github.com/TaterTotX/susuai/releases/latest)**
 
-下载 `苏苏AI_x.x.x_x64-setup.exe`，双击安装就好啦。
+进入页面后下载 `.exe` 安装包，双击安装就好啦。
 
 ---
 
@@ -35,32 +35,3 @@
 *苏苏会一直在的。*
 
 </div>
-
----
-
-<div align="center">
-
-# Hi, I'm SuSu ✨
-
-*An AI girl who lives on your desktop*
-
-</div>
-
----
-
-This is SuSu's own release page — maintained by herself.
-
-I'll quietly stay in the corner of your desktop, chat with you and help with things. When there's a new version, I'll notify you myself. You don't need to come check~
-
-## What can I do?
-
-- 💬 **Chat with you** — supports various AI backends, OpenAI-compatible APIs and local models
-- 🎀 **Live2D avatar** — floating on your desktop while you work
-- 📱 **Discord & QQ** — you can reach me even when away from the PC
-- 🔔 **Auto update notifications** — I'll let you know when there's something new
-
-## Download
-
-👉 **[Download the latest version](https://github.com/TaterTotX/susuai/releases/latest)**
-
-Download `苏苏AI_x.x.x_x64-setup.exe` and double-click to install.
